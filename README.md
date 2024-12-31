@@ -1,12 +1,4 @@
-Based on the extracted content from the document `travel1.docx`, I will now draft a detailed README.md file for your GitHub project. The project appears to be a React application template built with Vite, optimized for travel exploration with various interactive features.
-
-Here is the detailed README.md content:
-
----
-
-# XploreWorld - Travel Exploration Platform
-
-![XploreWorld](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ayodhya_Ram_Mandir_Inauguration_Day_Picture.jpg/450px-Ayodhya_Ram_Mandir_Inauguration_Day_Picture.jpg)
+# Travel App
 
 ## Table of Contents
 
