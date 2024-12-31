@@ -35,8 +35,8 @@ To set up XploreWorld, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/xploreworld.git
-    cd xploreworld
+    git clone https://github.com/ravikant-diwakar/Travel-App.git
+    cd Travel-App
     ```
 
 2. **Install dependencies**:
@@ -58,7 +58,7 @@ After starting the development server, access the application at `http://localho
 The project is organized as follows:
 
 ```
-xploreworld/
+Travel-App/
 ├── public/
 │   ├── index.html
 │   └── ...
